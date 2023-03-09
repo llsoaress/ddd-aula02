@@ -6,8 +6,10 @@ public class Pessoa {
 	public String sexo;
 	public int idade;
 	
-	//Métodos
+	//Mï¿½todos
 	public void exibirDadosPessoais() {
+		//tipo nome
+		int idade;
 		
 	}
 
